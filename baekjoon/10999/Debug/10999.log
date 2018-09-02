@@ -1,0 +1,5 @@
+﻿  solution.cpp
+c:\users\ssyth\source\repos\3079\10999\solution.cpp(46): error C2062: 예기치 않은 'int' 형식입니다.
+c:\users\ssyth\source\repos\3079\10999\solution.cpp(47): error C2065: 'b': 선언되지 않은 식별자입니다.
+c:\users\ssyth\source\repos\3079\10999\solution.cpp(48): error C2065: 'b': 선언되지 않은 식별자입니다.
+c:\users\ssyth\source\repos\3079\10999\solution.cpp(48): error C2660: 'sum': 함수는 1개의 매개 변수를 사용하지 않습니다.

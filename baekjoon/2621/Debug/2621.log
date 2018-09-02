@@ -1,0 +1,4 @@
+﻿  Solution.cpp
+c:\users\ssyth\source\repos\3079\2621\solution.cpp(16): error C2062: 예기치 않은 'int' 형식입니다.
+c:\users\ssyth\source\repos\3079\2621\solution.cpp(17): error C2065: 'b': 선언되지 않은 식별자입니다.
+c:\users\ssyth\source\repos\3079\2621\solution.cpp(19): error C2065: 'b': 선언되지 않은 식별자입니다.

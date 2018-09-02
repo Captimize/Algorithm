@@ -1,0 +1,4 @@
+﻿  solution.cpp
+c:\users\ssyth\source\repos\3079\15726\solution.cpp(12): warning C4244: '초기화 중': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\ssyth\source\repos\3079\15726\solution.cpp(13): warning C4244: '초기화 중': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  15726.vcxproj -> C:\Users\ssyth\source\repos\3079\Debug\15726.exe

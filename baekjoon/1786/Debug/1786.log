@@ -1,0 +1,3 @@
+﻿  solution.cpp
+c:\users\ssyth\source\repos\3079\1786\solution.cpp(32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  1786.vcxproj -> C:\Users\ssyth\source\repos\3079\Debug\1786.exe

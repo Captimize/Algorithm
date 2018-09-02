@@ -1,0 +1,3 @@
+﻿  solution.cpp
+c:\users\ssyth\source\repos\3079\13424\solution.cpp(67): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  13424.vcxproj -> C:\Users\ssyth\source\repos\3079\Debug\13424.exe
